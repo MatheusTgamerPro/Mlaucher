@@ -1,0 +1,3 @@
+apply plugin: 'com.my.project'
+android version= 7.1.2
+android:text="Hello World"
