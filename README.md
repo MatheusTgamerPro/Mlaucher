@@ -9,4 +9,4 @@ Texturas,mapas,servidores e entre outros,o lançador foi inspirado
 No laucher de minecraft Tlaucher!
 
 # Contribuidores
-1 - MatheusTgamerPro (DEV)
+1 - (https://github.com/MatheusTgamerPro/Mlaucher/commits?author=MatheusTgamerPro)
