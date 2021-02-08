@@ -9,4 +9,10 @@ Texturas,mapas,servidores e entre outros,o lançador foi inspirado
 No laucher de minecraft Tlaucher!
 
 # Contribuidores
-1 - (https://github.com/MatheusTgamerPro/Mlaucher/commits?author=MatheusTgamerPro)
+1 | MatheusTgamerPro (Desenvolvedor)
+
+# Instalação 
+1 - Instale o App (APK)
+2 - inicie uma Conta
+3 - Instale o Lançador Interno
+4 - e o app se Inicia
