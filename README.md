@@ -11,8 +11,12 @@ No laucher de minecraft Tlaucher!
 # Contribuidores
 1 | MatheusTgamerPro (Desenvolvedor)
 
-# Instalação 
-1 - Instale o App (APK)
-2 - inicie uma Conta
-3 - Instale o Lançador Interno
-4 - e o app se Inicia
+# Instalação
+
+▪ 1 - Instale o App (APK)
+
+▪ 2 - inicie uma Conta
+
+▪ 3 - Instale o Lançador Interno
+
+▪ 4 - e o app se Inicia
