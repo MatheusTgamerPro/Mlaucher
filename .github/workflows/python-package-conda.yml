@@ -1,0 +1,2 @@
+print = ('Instalacao do Laucher')
+n1 = input('Mlaucher Config')
