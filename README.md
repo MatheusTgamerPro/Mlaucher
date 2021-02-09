@@ -20,3 +20,7 @@ No laucher de minecraft Tlaucher!
 ▪ 3 - Instale o Lançador Interno
 
 ▪ 4 - e o app se Inicia
+
+# Data de Lançamento
+
+**Em Breve**
