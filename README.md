@@ -9,7 +9,7 @@ Texturas,mapas,servidores e entre outros,o lançador foi inspirado
 No laucher de minecraft Tlaucher!
 # Discord
 https://discord.gg/NTAAMC6TYu
-
+**Entre em Nosso Servidor do Discord**
 
 
 # Contribuidores
