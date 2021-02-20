@@ -1,9 +1,10 @@
- - 1 | Novo Design em ("download_activity")
- - 2 | Login Adicionado com E-mail & Senha!
- - 3 | Novos Botões ("download_activity")
- - 4 | Trabalho Finalizado em 1 Hora!
-
-  =====|Trabalho dia 15/02/2021|======
+=====|Trabalho dia 15/02/2021|======
  - 5 | Interface "Main" Alterada para Tela de Carregamento
  - 6 | Interface 'Tlaucher' Mal Implementada Ainda
    -| Trabalho Finalizado | 30 Minutos to Work
+
+====| Trabalho dia 20/02/2021 |=====
+  - 1 | Tela ( main.xml ) alterada
+  - 2 | Mudanças em Design do Mlaucher 
+  - 3 | Novo Carregamento inicial
+  - 4 | Novos Botões!
