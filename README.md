@@ -8,7 +8,8 @@ On Android,voce não sò pode instalar modpacks ou mods mas sim
 Texturas,mapas,servidores e entre outros,o lançador foi inspirado
 No laucher de minecraft Tlaucher!
 # Discord
-(https://discord.gg/NTAAMC6TYu)
+https://discord.gg/NTAAMC6TYu
+
 
 
 # Contribuidores
