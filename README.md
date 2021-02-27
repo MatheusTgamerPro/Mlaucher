@@ -31,8 +31,13 @@ https://discord.gg/NTAAMC6TYu
 # Changelogs
 
 **V1.0-Alpha**
+
 ◾Design Interior inspirado ao Tlaucher de PC
+
 ◾Pequenas Melhorias
+
 ◾Aplicativo totalmente facil de utilizar
+
 ◾usando Pouca Memoria
+
 ◾Aba de Mods ainda esta sendo Produzida!
